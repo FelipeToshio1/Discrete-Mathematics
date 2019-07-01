@@ -5,7 +5,6 @@
   "author": "Felipe Toshio",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
     "start": "nodemon server.js"
   },
   "dependencies": {
